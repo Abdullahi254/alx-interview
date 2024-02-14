@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "name": "0x06-starwars_api",
+  "version": "1.0.0",
+  "main": "0-starwars_characters.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
